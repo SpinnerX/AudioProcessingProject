@@ -1,0 +1,8 @@
+/Users/aaronher/Desktop/AudioProcessingProject/build/CMakeFiles/AudioProcessingProject.dir
+/Users/aaronher/Desktop/AudioProcessingProject/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/AudioProcessingProject/build/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/Desktop/AudioProcessingProject/build/dependencies/formatCpp/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/AudioProcessingProject/build/dependencies/formatCpp/CMakeFiles/rebuild_cache.dir
+/Users/aaronher/Desktop/AudioProcessingProject/build/dependencies/formatCpp/examples/CMakeFiles/examples.dir
+/Users/aaronher/Desktop/AudioProcessingProject/build/dependencies/formatCpp/examples/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/AudioProcessingProject/build/dependencies/formatCpp/examples/CMakeFiles/rebuild_cache.dir
